@@ -23,10 +23,12 @@ When looking at the dashboard screen, here is exactly what each number on the le
 
 ### 1. Active Telemetry Pipeline (Normal State)
 When the vehicle is within safe operating margins, data flows efficiently over the optimized network backplane layer.
+
 ![Binary Layer Synced Status Panel](Screenshot%202026-10-10%20151328.png)
 
 ### 2. Spatial Geofence Alert (Boundary Breach State)
 The exact millisecond the tracking coordinates cross the safety buffer boundary line, the dashboard flags a red alert warning notice.
+
 ![Geofence Boundary Breach Alert Panel](Screenshot%202026-10-10%20151446.png)
 
 ---
